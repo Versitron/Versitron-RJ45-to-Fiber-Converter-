@@ -27,19 +27,23 @@ This **PoE+ fiber media converter** is ideal for:
 
 ---
 
-## Technical Specifications
+# VERSITRON RJ45 to Fiber Converter – RJ45-FC20
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON RJ45 to Fiber Converter |
-| Fiber Type | Multimode to Singlemode |
-| Connectors | RJ45 to SFP fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-T to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC / PoE+ supported |
-| Operating Temp | -10°C to 60°C |
+**Model:** RJ45-FC20  
+**Media Type:** Ethernet to Fiber Media Conversion  
+**Fiber Type:** Singlemode (Optional Multimode SFP Modules)  
+**Connectors:** RJ45 Ethernet port, SFP Fiber Slot  
+**Wavelength:** 1310nm  
+**Maximum Distance:** Up to 20 km  
+**Speed:** 10/100/1000 Mbps (Auto Negotiation)  
+**Duplex Mode:** Full-Duplex / Half-Duplex  
+**Power Supply:** 5V DC External / PoE+ Supported  
+**Power Consumption:** ≤ 5W  
+**Operating Temperature:** -10°C to 60°C  
+**Storage Temperature:** -40°C to 85°C  
+**Humidity:** 5%–95% RH, Non-Condensing  
+**LED Indicators:** Power, Link/Act, Speed  
+**Applications:** Enterprise Networks, Surveillance Systems, Industrial Control, IoT Deployment
 
 ---
 
